@@ -6,3 +6,8 @@ h2 {
   font-size: 4vh;
   color: rgb(77, 76, 76);
 }
+p,
+.sisutekst {
+  font-size: 16px;
+  color: rgb(77, 76, 76);
+}
