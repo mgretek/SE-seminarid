@@ -28,3 +28,10 @@ button {
   border: 1px solid gray;
   border-radius: 4px;
 }
+.nav {
+  margin-top: 60px;
+}
+.nav-link {
+  text-decoration: none;
+  color: rgb(77, 76, 76);
+}
