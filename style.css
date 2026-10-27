@@ -23,3 +23,8 @@ button {
   box-shadow: gray 1px 1px 2px;
   cursor: pointer;
 }
+.foto {
+  max-width: 500px;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
